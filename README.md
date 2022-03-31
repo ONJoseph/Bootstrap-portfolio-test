@@ -31,6 +31,14 @@ To get a local copy up and running follow these simple steps:
 - GitHub: [ONJoseph](https://github.com/ONJoseph)
 - GitHub: [@]()
 
+## Authors
+
+👤 Roger Smit Castillo
+
+- GitHub:https://github.com/latinogan
+- Email:roger.castillo.arce@gmail.com 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/roger-smith-a35738179/)
+
 ## 🤝 :raised_hand: :raised_hand: Contributions
 
 Contributions, issues, and feature requests are welcome!
